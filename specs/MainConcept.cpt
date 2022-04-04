@@ -1,0 +1,34 @@
+#Uygulamanın açıldığı kontrol edilir
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" uygulamanin acildiğini kontrol et
+*"3" saniye bekle
+#Alışveriş butonuna tıkla
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" Alışveriş butonuna tıkla
+*"3" saniye bekle
+#Alışveriş Sayfasının açıldığı kontrol edililr
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/relLayMarket" Alışveriş Sayfasının açıldığı kontrol edililr
+*"3" saniye bekle
+#Kategoriler butonuna tıkla
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/nav_categories" Kategoriler butonuna tıkla
+*"3" saniye bekle
+#Kategorilerin açıldığı kontrol edilir
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/relLayBarkod" Kategorilerin açıldığı kontrol edilir
+*"3" saniye bekle
+#menüden kadın seçeneğine tıklanır
+*"5" saniye bekle
+*menüden kadın seçeneğine tıklanır
+*"3" saniye bekle
+#pantolon seçeneğine tıklanır
+*"5" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/relLayCategoriesItem" pantolon seçeneğine tıklanır
+*"3" saniye bekle
+#Sayfa Aşağı Kaydırılır
+*"5" saniye bekle
+#Rastgele ürün seçilir
+*"3" saniye bekle
+#Ürün detay sayfası açıldığı kontrol edilir
+*<int> saniye bekle
